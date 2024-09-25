@@ -2,28 +2,28 @@ const datos = [
 
     {
         nombre: 'seccionTriage',
-        imgCelu: 'http://localhost:3000/celu-primero.jpg',
-        imgTexto: 'http://localhost:3000/texto-primero.jpg'
+        imgCelu: 'https://entorno.vercel.app/celu-primero.JPG',
+        imgTexto: 'https://entorno.vercel.app/texto-primero.JPG'
     },
     {
         nombre: 'seccionDragLeft',
-        imgCelu: 'http://localhost:3000/celu-segundo.jpg',
-        imgTexto: 'http://localhost:3000/texto-22.jpg'
+        imgCelu: 'https://entorno.vercel.app/celu-segundo.JPG',
+        imgTexto: 'https://entorno.vercel.app/texto-22.JPG'
     },
     {
         nombre: 'seccionDragRight',
-        imgCelu: 'http://localhost:3000/celu-tercera.jpg',
-        imgTexto: 'http://localhost:3000/texto-33.jpg'
+        imgCelu: 'https://entorno.vercel.app/celu-tercera.JPG',
+        imgTexto: 'https://entorno.vercel.app/texto-33.JPG'
     },
     {
         nombre: 'seccionTap',
-        imgCelu: 'http://localhost:3000/celu-cuarto.jpg',
-        imgTexto: 'http://localhost:3000/texto-44.jpg'
+        imgCelu: 'https://entorno.vercel.app/celu-cuarto.JPG',
+        imgTexto: 'https://entorno.vercel.app/texto-44.JPG'
     },
     {
         nombre: 'seccionReply',
-        imgCelu: 'http://localhost:3000/celu-quinto.jpg',
-        imgTexto: 'http://localhost:3000/texto-55.jpg'
+        imgCelu: 'https://entorno.vercel.app/celu-quinto.JPG',
+        imgTexto: 'https://entorno.vercel.app/texto-55.JPG'
     }
  
 ]; 
